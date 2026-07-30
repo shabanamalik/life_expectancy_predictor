@@ -2,6 +2,8 @@
 # 🌍 Life Expectancy Predictor
 
 A machine learning web app that predicts a country's average life expectancy based on its health and economic indicators, built using the WHO Life Expectancy dataset.
+## Live Demo
+[Try the app here](https://lifeexpectancypredictor-7e8adsbzpg8yuxb32khhre.streamlit.app/)
 
 ## 📊 About the Project
 
@@ -91,3 +93,4 @@ The model is trained on the [WHO Life Expectancy dataset](https://www.kaggle.com
 ## 🙋‍♀️ Author
 
 Shabana
+
